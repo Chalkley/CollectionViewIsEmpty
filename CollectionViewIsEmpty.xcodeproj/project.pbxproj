@@ -13,6 +13,7 @@
 		1045DCBC21C44E0F00BC5782 /* CollectionViewIsEmpty.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1045DCBA21C44E0F00BC5782 /* CollectionViewIsEmpty.xcdatamodeld */; };
 		1045DCBE21C44E1700BC5782 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1045DCBD21C44E1700BC5782 /* Assets.xcassets */; };
 		1045DCC121C44E1700BC5782 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1045DCBF21C44E1700BC5782 /* LaunchScreen.storyboard */; };
+		1045DCC921C450B500BC5782 /* CollectionViewIsEmpty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1045DCC821C450B500BC5782 /* CollectionViewIsEmpty.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1045DCBD21C44E1700BC5782 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1045DCC021C44E1700BC5782 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1045DCC221C44E1700BC5782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1045DCC821C450B500BC5782 /* CollectionViewIsEmpty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewIsEmpty.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1045DCBF21C44E1700BC5782 /* LaunchScreen.storyboard */,
 				1045DCC221C44E1700BC5782 /* Info.plist */,
 				1045DCBA21C44E0F00BC5782 /* CollectionViewIsEmpty.xcdatamodeld */,
+				1045DCC821C450B500BC5782 /* CollectionViewIsEmpty.swift */,
 			);
 			path = CollectionViewIsEmpty;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1045DCC921C450B500BC5782 /* CollectionViewIsEmpty.swift in Sources */,
 				1045DCB621C44E0F00BC5782 /* ViewController.swift in Sources */,
 				1045DCBC21C44E0F00BC5782 /* CollectionViewIsEmpty.xcdatamodeld in Sources */,
 				1045DCB421C44E0F00BC5782 /* AppDelegate.swift in Sources */,
